@@ -1,0 +1,184 @@
+├─────┬─┐ 
+│     │ │ 
+│     │ │ 
+│     │ ├─{Red=0, Blue=0, x=1, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=1, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=1, y=7, Green=0}
+│     │ ├─{Red=0, Blue=0, x=1, y=8, Green=0}
+│     │ ├─{Red=0, Blue=0, x=1, y=9, Green=0}
+│     │ ├─{Red=0, Blue=0, x=1, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=2, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=2, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=2, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=3, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=3, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=3, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=3, y=11, Green=0}
+│     │ ├─{Red=0, Blue=0, x=4, y=1, Green=0}
+│     │ ├─{Red=0, Blue=0, x=4, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=4, y=5, Green=0}
+│     │ ├─{Red=0, Blue=0, x=4, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=4, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=4, y=11, Green=0}
+│     │ ├─{Red=0, Blue=0, x=5, y=1, Green=0}
+│     │ ├─{Red=0, Blue=0, x=5, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=5, y=5, Green=0}
+│     │ ├─{Red=0, Blue=0, x=5, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=5, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=6, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=6, y=5, Green=0}
+│     │ ├─{Red=0, Blue=0, x=6, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=6, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=2, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=3, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=4, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=5, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=7, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=8, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=9, Green=0}
+│     │ ├─{Red=0, Blue=0, x=7, y=10, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=3, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=4, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=5, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=6, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=7, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=8, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=9, Green=0}
+│     │ ├─{Red=0, Blue=0, x=8, y=10, Green=0}
+│     │ └─{Red=0, Blue=0, x=8, y=11, Green=0}
+│     │ 
+│     │ 
+│     │ 
+│     ├─{Red=0, Blue=0, x=1, y=1, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=2, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=3, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=4, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=5, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=7, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=8, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=9, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=10, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=11, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=12, Green=0}
+│     ├─{Red=0, Blue=0, x=1, y=13, Green=0}
+│     ├─{Red=0, Blue=0, x=2, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=2, y=7, Green=0}
+│     ├─{Red=0, Blue=0, x=2, y=13, Green=0}
+│     ├─{Red=0, Blue=0, x=3, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=3, y=14, Green=0}
+│     ├─{Red=0, Blue=0, x=4, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=4, y=14, Green=0}
+│     ├─{Red=0, Blue=0, x=5, y=5, Green=0}
+│     ├─{Red=0, Blue=0, x=5, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=5, y=14, Green=0}
+│     ├─{Red=0, Blue=0, x=5, y=15, Green=0}
+│     ├─{Red=0, Blue=0, x=6, y=5, Green=0}
+│     ├─{Red=0, Blue=0, x=6, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=6, y=14, Green=0}
+│     ├─{Red=0, Blue=0, x=6, y=15, Green=0}
+│     ├─{Red=0, Blue=0, x=7, y=6, Green=0}
+│     ├─{Red=0, Blue=0, x=7, y=7, Green=0}
+│     ├─{Red=0, Blue=0, x=7, y=13, Green=0}
+│     ├─{Red=0, Blue=0, x=7, y=14, Green=0}
+│     ├─{Red=0, Blue=0, x=8, y=7, Green=0}
+│     ├─{Red=0, Blue=0, x=8, y=8, Green=0}
+│     ├─{Red=0, Blue=0, x=8, y=9, Green=0}
+│     ├─{Red=0, Blue=0, x=8, y=10, Green=0}
+│     ├─{Red=0, Blue=0, x=8, y=11, Green=0}
+│     ├─{Red=0, Blue=0, x=8, y=12, Green=0}
+│     └─{Red=0, Blue=0, x=8, y=13, Green=0}
+│     
+│     
+└─┬─┐ 
+  │ │ 
+  │ │ 
+  │ ├─{Red=0, Blue=0, x=1, y=1, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=2, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=3, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=4, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=5, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=7, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=8, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=9, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=10, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=11, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=12, Green=0}
+  │ ├─{Red=0, Blue=0, x=1, y=13, Green=0}
+  │ ├─{Red=0, Blue=0, x=2, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=2, y=7, Green=0}
+  │ ├─{Red=0, Blue=0, x=2, y=13, Green=0}
+  │ ├─{Red=0, Blue=0, x=3, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=3, y=14, Green=0}
+  │ ├─{Red=0, Blue=0, x=4, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=4, y=14, Green=0}
+  │ ├─{Red=0, Blue=0, x=5, y=5, Green=0}
+  │ ├─{Red=0, Blue=0, x=5, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=5, y=14, Green=0}
+  │ ├─{Red=0, Blue=0, x=5, y=15, Green=0}
+  │ ├─{Red=0, Blue=0, x=6, y=5, Green=0}
+  │ ├─{Red=0, Blue=0, x=6, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=6, y=14, Green=0}
+  │ ├─{Red=0, Blue=0, x=6, y=15, Green=0}
+  │ ├─{Red=0, Blue=0, x=7, y=6, Green=0}
+  │ ├─{Red=0, Blue=0, x=7, y=7, Green=0}
+  │ ├─{Red=0, Blue=0, x=7, y=13, Green=0}
+  │ ├─{Red=0, Blue=0, x=7, y=14, Green=0}
+  │ ├─{Red=0, Blue=0, x=8, y=7, Green=0}
+  │ ├─{Red=0, Blue=0, x=8, y=8, Green=0}
+  │ ├─{Red=0, Blue=0, x=8, y=9, Green=0}
+  │ ├─{Red=0, Blue=0, x=8, y=10, Green=0}
+  │ ├─{Red=0, Blue=0, x=8, y=11, Green=0}
+  │ ├─{Red=0, Blue=0, x=8, y=12, Green=0}
+  │ └─{Red=0, Blue=0, x=8, y=13, Green=0}
+  │ 
+  │ 
+  │ 
+  ├─{Red=0, Blue=0, x=1, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=1, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=1, y=7, Green=0}
+  ├─{Red=0, Blue=0, x=1, y=8, Green=0}
+  ├─{Red=0, Blue=0, x=1, y=9, Green=0}
+  ├─{Red=0, Blue=0, x=1, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=2, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=2, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=2, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=3, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=3, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=3, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=3, y=11, Green=0}
+  ├─{Red=0, Blue=0, x=4, y=1, Green=0}
+  ├─{Red=0, Blue=0, x=4, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=4, y=5, Green=0}
+  ├─{Red=0, Blue=0, x=4, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=4, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=4, y=11, Green=0}
+  ├─{Red=0, Blue=0, x=5, y=1, Green=0}
+  ├─{Red=0, Blue=0, x=5, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=5, y=5, Green=0}
+  ├─{Red=0, Blue=0, x=5, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=5, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=6, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=6, y=5, Green=0}
+  ├─{Red=0, Blue=0, x=6, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=6, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=2, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=3, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=4, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=5, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=7, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=8, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=9, Green=0}
+  ├─{Red=0, Blue=0, x=7, y=10, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=3, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=4, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=5, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=6, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=7, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=8, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=9, Green=0}
+  ├─{Red=0, Blue=0, x=8, y=10, Green=0}
+  └─{Red=0, Blue=0, x=8, y=11, Green=0}
